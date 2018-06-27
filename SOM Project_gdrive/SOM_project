@@ -1,0 +1,10 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('fitz_model_figure.py'),
+                  loc('fitz_model_pv_add.py'),
+                  loc('utils.py')]
+proj.file-type = 'shared'
