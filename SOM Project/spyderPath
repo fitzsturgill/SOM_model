@@ -1,0 +1,18 @@
+import sys
+
+sys.path = ['',
+ '/Users/fitz/Documents/Python/code',
+ '/Users/fitz/Documents/Python',
+ '/Applications/Spyder-Py2.app/Contents/Resources',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python27.zip',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/plat-darwin',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/plat-mac',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/plat-mac/lib-scriptpackages',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/lib-tk',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/lib-old',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/lib-dynload',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/site-packages.zip',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/site-packages',
+ '/Applications/Spyder-Py2.app/Contents/Resources/lib/python2.7/IPython/extensions',
+ '/Users/fitz/.ipython']
